@@ -1,0 +1,45 @@
+.telefono:hover{
+    width: 0%;
+    height: 50vh;
+    background-color: rgba(0, 0, 0, 0.411);
+    position: relative;
+    align-items: center;
+    transition: 1s;
+}
+
+
+.correo:hover{
+    width: 0%;
+    height: 50vh;
+    background-color: rgba(0, 0, 0, 0.582);
+    position: relative;
+    align-items: center;
+    transition: 1s;
+}
+
+.whatsapp:hover{
+    width: 0%;
+    height: 50vh;
+    background-color: rgba(0, 0, 0, 0.411);
+    position: relative;
+    align-items: center;
+    transition: 1s;
+}
+
+.in:hover{
+    width: 0%;
+    height: 50vh;
+    background-color: rgba(0, 0, 0, 0.459);
+    position: relative;
+    align-items: center;
+    transition: 1s;
+}
+
+.hub:hover{
+    width: 0%;
+    height: 50vh;
+    background-color: rgba(0, 0, 0, 0.582);
+    position: relative;
+    align-items: center;
+    transition: 1s;
+}

@@ -1,0 +1,12 @@
+
+.acerca{
+    animation: slide-left 2.5s alternate;
+}
+@keyframes slide-left{
+    0%{
+        transform: translate(40%);
+    }
+    100%{
+        transform: translate(0%);
+    }
+}

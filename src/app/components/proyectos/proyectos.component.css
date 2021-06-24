@@ -1,0 +1,74 @@
+.framar:hover{
+    width: 0%;
+    height: 50vh;
+    background-color: rgba(0, 0, 0, 0.274);
+    position: relative;
+    align-items: center;
+    transition: 1s; 
+}
+
+img.framar:hover{
+    width: 20rem;
+    transition: 1s;
+    border-radius: 50%;
+}
+
+.ofir:hover{
+    width: 0%;
+    height: 50vh;
+    background-color: rgba(0, 0, 0, 0.274);
+    position: relative;
+    align-items: center;
+    transition: 1s; 
+}
+
+img.ofir:hover{
+    width: 20rem;
+    transition: 1s;
+    border-radius: 50%;
+}
+
+.oro:hover{
+    width: 0%;
+    height: 50vh;
+    background-color: rgba(0, 0, 0, 0.274);
+    position: relative;
+    align-items: center;
+    transition: 1s; 
+}
+
+img.oro:hover{
+    width: 20rem;
+    transition: 1s;
+    border-radius: 50%;
+}
+
+.go:hover{
+    width: 0%;
+    height: 50vh;
+    background-color: rgba(0, 0, 0, 0.411);
+    position: relative;
+    align-items: center;
+    transition: 1s; 
+}
+
+img.go:hover{
+    width: 20rem;
+    transition: 1s;
+    border-radius: 50%;
+}
+
+.four:hover{
+    width: 0%;
+    height: 50vh;
+    background-color: rgba(0, 0, 0, 0.274);
+    position: relative;
+    align-items: center;
+    transition: 1s; 
+}
+
+img.four:hover{
+    width: 20rem;
+    transition: 1s;
+    border-radius: 50%;
+}

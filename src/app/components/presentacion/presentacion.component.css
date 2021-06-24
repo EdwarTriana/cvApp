@@ -1,0 +1,44 @@
+
+h2{
+    animation: bounce2 2s alternate;  
+}
+@keyframes bounce2{
+    0%{
+        transform: translate(-40%);
+    }
+    100%{
+        transform: translate(0%);
+    }
+}
+
+h1{
+    animation: slide-right 2s alternate;
+}
+@keyframes slide-right{
+    0%{
+        transform: translate(-40%);
+    }
+    100%{
+        transform: translate(0%);
+    }
+}
+h3{
+    animation: bounce 2s alternate;
+}
+@keyframes bounce{
+    0%{
+        transform: translatey(-40%);
+    }
+    100%{
+        transform: translatey(0%);
+    }
+}
+
+
+
+
+.hoja:hover{
+    border-radius: 50%;
+    background-color: brown;
+    transition: 1s;
+}
